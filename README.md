@@ -21,5 +21,5 @@ Following are a few ***human poses*** predicted by the model:-
 | Test Image        | Generated Keypoint Skeleton           |
 | ------------------- |:----------------------------:|
 | ![alt text](https://github.com/fork123aniket/Human-Pose-Estimation/blob/main/images/sample.jpg) | ![alt text](https://github.com/fork123aniket/Human-Pose-Estimation/blob/main/images/sample_result.webp) |
-| ![alt text](https://github.com/fork123aniket/Human-Pose-Estimation/blob/main/images/sample2.jpg) | <img src="https://github.com/fork123aniket/Human-Pose-Estimation/blob/main/images/sample2_result.webp" height="600"> |
+| ![alt text](https://github.com/fork123aniket/Human-Pose-Estimation/blob/main/images/sample2.jpg) | <img src="https://github.com/fork123aniket/Human-Pose-Estimation/blob/main/images/sample2_result.webp" height="300"> |
 | <img src="https://github.com/fork123aniket/Encoder-Decoder-based-Video-Captioning/blob/main/input_videos/7NNg0_n-bS8_21_30.gif" width="320"> | a man is performing on a stage |

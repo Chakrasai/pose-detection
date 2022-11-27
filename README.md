@@ -20,6 +20,6 @@ This repository provides implementation for ***Human Pose Estimation*** that pre
 Following are a few ***human poses*** predicted by the model:-
 | Test Image        | Generated Keypoint Skeleton           |
 | ------------------- |:----------------------------:|
-| <img src="https://github.com/fork123aniket/Human-Pose-Estimation/blob/main/images/sample.jpg" height="495"> | <img src="https://github.com/fork123aniket/Human-Pose-Estimation/blob/main/images/sample_result.webp" height="495"> |
+| <img src="https://github.com/fork123aniket/Human-Pose-Estimation/blob/main/images/sample.jpg" width="575"> | <img src="https://github.com/fork123aniket/Human-Pose-Estimation/blob/main/images/sample_result.webp" width="575"> |
 | ![alt text](https://github.com/fork123aniket/Human-Pose-Estimation/blob/main/images/sample2.jpg) | <img src="https://github.com/fork123aniket/Human-Pose-Estimation/blob/main/images/sample2_result.webp" height="395"> |
 | <img src="https://github.com/fork123aniket/Encoder-Decoder-based-Video-Captioning/blob/main/input_videos/7NNg0_n-bS8_21_30.gif" width="320"> | a man is performing on a stage |
